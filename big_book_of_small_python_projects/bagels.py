@@ -1,3 +1,5 @@
+# need to update this to be able to tolerate letters, leading 0s, etc. 
+
 '''
 BAGELS --> must guess a secret 3 digit number in 10 tries
     Hints:
